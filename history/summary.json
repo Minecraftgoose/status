@@ -38,7 +38,7 @@
   {
     "name": "GooseHost-PHP",
     "url": "https://host.goose.l.cd/",
-    "icon": "https://icons.duckduckgo.com/ip3/host.goose.l.cd.ico",
+    "icon": "https://status.goose.cc.cd/default-icon.svg",
     "slug": "goose-host-php",
     "status": "down",
     "uptime": "0.00%",
@@ -52,7 +52,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-11-01": 331,
+      "2026-11-01": 387,
       "2026-10-31": 1440,
       "2026-10-30": 1440,
       "2026-10-29": 1440,
@@ -66,7 +66,7 @@
   {
     "name": "GooseHost-PHP托管站点访问",
     "url": "https://page.goose.l.cd/s/localstorage",
-    "icon": "https://icons.duckduckgo.com/ip3/page.goose.l.cd.ico",
+    "icon": "https://status.goose.cc.cd/default-icon.svg",
     "slug": "goose-host-php",
     "status": "down",
     "uptime": "0.00%",
@@ -80,7 +80,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-11-01": 331,
+      "2026-11-01": 387,
       "2026-10-31": 1440,
       "2026-10-30": 1440,
       "2026-10-29": 1440,
@@ -202,7 +202,7 @@
   {
     "name": "网站图标抓取服务",
     "url": "https://favicon.cyann.top/",
-    "icon": "https://icons.duckduckgo.com/ip3/favicon.cyann.top.ico",
+    "icon": "https://status.goose.cc.cd/default-icon.svg",
     "slug": "网站图标抓取服务",
     "status": "down",
     "uptime": "0.00%",
@@ -216,7 +216,7 @@
     "timeMonth": 93,
     "timeYear": 93,
     "dailyMinutesDown": {
-      "2026-11-01": 331,
+      "2026-11-01": 387,
       "2026-10-31": 1440,
       "2026-10-30": 1440,
       "2026-10-29": 1440,
