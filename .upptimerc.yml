@@ -4,36 +4,47 @@ repo: status
 sites:
   - name: GooseHost
     url: https://host.goose.cc.cd/
+    icon: https://icons.duckduckgo.com/ip3/host.goose.cc.cd.ico
 
   - name: GooseHost托管站点访问
     url: https://page.goose.cc.cd/md/cli
+    icon: https://icons.duckduckgo.com/ip3/page.goose.cc.cd.ico
 
   - name: GooseHost-PHP
     url: https://host.goose.l.cd/
+    icon: https://status.goose.cc.cd/default-icon.svg
 
   - name: GooseHost-PHP托管站点访问
     url: https://page.goose.l.cd/s/localstorage
+    icon: https://status.goose.cc.cd/default-icon.svg
 
   - name: GooseBlog主站
     url: https://blog.goose.cc.cd/
+    icon: https://icons.duckduckgo.com/ip3/blog.goose.cc.cd.ico
 
   - name: GooseBlog副站
     url: https://blog.cyann.top/
+    icon: https://icons.duckduckgo.com/ip3/blog.cyann.top.ico
 
   - name: mciconsCDN
     url: https://mcicons.netlify.app/
+    icon: https://icons.duckduckgo.com/ip3/mcicons.netlify.app.ico
 
   - name: GooseHyperGlassCDN-主
     url: https://glass.goose.cc.cd/
+    icon: https://icons.duckduckgo.com/ip3/glass.goose.cc.cd.ico
 
   - name: GooseHyperGlassCDN-备
     url: http://glass.goose.bbroot.com/
+    icon: https://icons.duckduckgo.com/ip3/glass.goose.bbroot.com.ico
 
   - name: macOS网页版
     url: https://macos.goose.cc.cd/
+    icon: https://icons.duckduckgo.com/ip3/macos.goose.cc.cd.ico
 
   - name: 网站图标抓取服务
     url: https://favicon.cyann.top/
+    icon: https://status.goose.cc.cd/default-icon.svg
 
 status-website:
   cname: status.goose.cc.cd
@@ -117,6 +128,7 @@ i18n:
 
   # ===== README 表格与徽章 =====
   url: 站点
+  icon: https://icons.duckduckgo.com/ip3/None.ico
   status: 状态
   history: 历史
   responseTime: 响应时间
