@@ -36,7 +36,7 @@ sites:
     url: https://favicon.cyann.top/
 
 status-website:
-  baseUrl: /status/
+  cname: status.goose.cc.cd
   name: Goose 服务状态
   introTitle: "**Goose 服务状态**"
   introMessage: 这是基于 Upptime 的实时状态页，数据来自 GitHub Actions、Issues 和 Pages。
