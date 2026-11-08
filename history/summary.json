@@ -12,7 +12,7 @@
     "uptimeYear": "100.00%",
     "time": 1484,
     "timeDay": 0,
-    "timeWeek": 816,
+    "timeWeek": 0,
     "timeMonth": 1484,
     "timeYear": 1484,
     "dailyMinutesDown": {}
@@ -30,7 +30,7 @@
     "uptimeYear": "100.00%",
     "time": 1484,
     "timeDay": 0,
-    "timeWeek": 816,
+    "timeWeek": 0,
     "timeMonth": 1484,
     "timeYear": 1484,
     "dailyMinutesDown": {}
@@ -52,7 +52,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-11-08": 178,
+      "2026-11-08": 1357,
       "2026-11-07": 1440,
       "2026-11-06": 1440,
       "2026-11-05": 1440,
@@ -87,7 +87,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-11-08": 178,
+      "2026-11-08": 1357,
       "2026-11-07": 1440,
       "2026-11-06": 1440,
       "2026-11-05": 1440,
@@ -118,7 +118,7 @@
     "uptimeYear": "100.00%",
     "time": 713,
     "timeDay": 0,
-    "timeWeek": 425,
+    "timeWeek": 0,
     "timeMonth": 713,
     "timeYear": 713,
     "dailyMinutesDown": {}
@@ -136,7 +136,7 @@
     "uptimeYear": "100.00%",
     "time": 713,
     "timeDay": 0,
-    "timeWeek": 425,
+    "timeWeek": 0,
     "timeMonth": 713,
     "timeYear": 713,
     "dailyMinutesDown": {}
@@ -154,7 +154,7 @@
     "uptimeYear": "100.00%",
     "time": 711,
     "timeDay": 0,
-    "timeWeek": 364,
+    "timeWeek": 0,
     "timeMonth": 711,
     "timeYear": 711,
     "dailyMinutesDown": {}
@@ -172,7 +172,7 @@
     "uptimeYear": "100.00%",
     "time": 396,
     "timeDay": 0,
-    "timeWeek": 441,
+    "timeWeek": 0,
     "timeMonth": 396,
     "timeYear": 396,
     "dailyMinutesDown": {}
@@ -190,7 +190,7 @@
     "uptimeYear": "100.00%",
     "time": 396,
     "timeDay": 0,
-    "timeWeek": 441,
+    "timeWeek": 0,
     "timeMonth": 396,
     "timeYear": 396,
     "dailyMinutesDown": {}
@@ -200,18 +200,20 @@
     "url": "https://macos.goose.cc.cd/",
     "icon": "https://icons.duckduckgo.com/ip3/macos.goose.cc.cd.ico",
     "slug": "mac-os",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 467,
     "timeDay": 0,
-    "timeWeek": 222,
+    "timeWeek": 0,
     "timeMonth": 467,
     "timeYear": 467,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-11-08": 0
+    }
   },
   {
     "name": "网站图标抓取服务",
@@ -226,11 +228,11 @@
     "uptimeYear": "0.00%",
     "time": 93,
     "timeDay": 0,
-    "timeWeek": 102,
+    "timeWeek": 0,
     "timeMonth": 93,
     "timeYear": 93,
     "dailyMinutesDown": {
-      "2026-11-08": 178,
+      "2026-11-08": 1357,
       "2026-11-07": 1440,
       "2026-11-06": 1440,
       "2026-11-05": 1440,
