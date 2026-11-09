@@ -52,7 +52,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-11-08": 1357,
+      "2026-11-09": 200,
+      "2026-11-08": 1440,
       "2026-11-07": 1440,
       "2026-11-06": 1440,
       "2026-11-05": 1440,
@@ -87,7 +88,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-11-08": 1357,
+      "2026-11-09": 200,
+      "2026-11-08": 1440,
       "2026-11-07": 1440,
       "2026-11-06": 1440,
       "2026-11-05": 1440,
@@ -201,18 +203,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/macos.goose.cc.cd.ico",
     "slug": "mac-os",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "98.73%",
+    "uptimeDay": "80.32%",
+    "uptimeWeek": "97.19%",
+    "uptimeMonth": "98.73%",
+    "uptimeYear": "98.73%",
     "time": 467,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 467,
     "timeYear": 467,
     "dailyMinutesDown": {
-      "2026-11-08": 0
+      "2026-11-09": 200,
+      "2026-11-08": 83
     }
   },
   {
@@ -232,7 +235,8 @@
     "timeMonth": 93,
     "timeYear": 93,
     "dailyMinutesDown": {
-      "2026-11-08": 1357,
+      "2026-11-09": 200,
+      "2026-11-08": 1440,
       "2026-11-07": 1440,
       "2026-11-06": 1440,
       "2026-11-05": 1440,
